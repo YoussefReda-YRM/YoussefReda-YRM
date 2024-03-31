@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Youssef
 
 
-**Mobile app Developer.
+### Mobile app Developer
 
 - 🌱 I’m currently learning Flutter Developer
   
