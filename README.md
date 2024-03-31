@@ -3,6 +3,8 @@
 
 ### Mobile app Developer
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Youssef)](https://github.com/anuraghazra-readme-stats)
+
 - 🌱 I’m currently learning Flutter Developer
   
 - 💬 Ask me about ...
